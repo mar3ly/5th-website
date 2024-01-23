@@ -1,0 +1,19 @@
+table, th, td {
+    border: 1px solid rgb(145, 38, 38);
+}
+
+body{
+    background-image: url(https://media.npr.org/assets/img/2018/04/09/kali-uchis-felipe-q-noguiera-landscape-2_wide-3e58d2474103478b706055dd0bea7d62e5b462e8-s1400-c100.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover ;
+}
+
+table{
+    color: rgb(199, 43, 43);
+    background-color: antiquewhite;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
